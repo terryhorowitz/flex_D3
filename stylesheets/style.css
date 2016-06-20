@@ -1,0 +1,9 @@
+.outer{
+    display: flex;
+    justify-content: space-around;
+}
+
+.box{
+    height: 300px;
+    margin: 25px;
+}
